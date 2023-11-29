@@ -12,4 +12,11 @@
         <exec.mainClass>com.mycompany.jogos_mvh.Jogos_MvH</exec.mainClass>
     </properties>
     <name>SistemaJogos_MvH</name>
+    <dependencies>
+        <dependency>
+            <groupId>org.netbeans.external</groupId>
+            <artifactId>AbsoluteLayout</artifactId>
+            <version>RELEASE190</version>
+        </dependency>
+    </dependencies>
 </project>
